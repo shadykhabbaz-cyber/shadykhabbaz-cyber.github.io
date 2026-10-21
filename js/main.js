@@ -32,3 +32,6 @@ let sx=null,sy=0;d.addEventListener('touchstart',e=>{sx=e.touches[0].clientX;sy=
 d.addEventListener('touchend',e=>{if(sx===null)return;const dx=e.changedTouches[0].clientX-sx,dy=e.changedTouches[0].clientY-sy;sx=null;if(Math.abs(dx)>50&&Math.abs(dx)>Math.abs(dy))show(dx<0?i+1:i-1);},{passive:true});
 d.addEventListener('click',e=>{if(e.target===d||e.target.tagName==='FIGURE')close();});
 })();
+
+// pasek CTA: na stronach z hero pokazuj dopiero po przewinięciu za hero (bez JS pasek widoczny zawsze)
+(function(){var h=document.querySelector('.hero'),b=document.body;if(!h||!('IntersectionObserver' in window))return;b.classList.add('has-hero');new IntersectionObserver(function(e){b.classList.toggle('past-hero',!e[0].isIntersecting)},{rootMargin:'-80px 0px 0px 0px'}).observe(h);})();

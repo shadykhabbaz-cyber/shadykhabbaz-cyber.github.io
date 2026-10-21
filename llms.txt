@@ -26,6 +26,7 @@ Informacje podstawowe (stan: październik 2026):
 - [Ceny i wyceny](https://shadykhabbaz-cyber.github.io/ceny-tatuazy/): od czego zależy cena, zadatek, vouchery
 - [FAQ](https://shadykhabbaz-cyber.github.io/faq/): najczęstsze pytania
 - [O nas](https://shadykhabbaz-cyber.github.io/o-nas/): zespół: Shady, Ola, Zuzia, Martyna
+- [Tatuaże fine line](https://shadykhabbaz-cyber.github.io/fine-line-wielun/): cienka linia, minimalistyczne wzory, kwiaty; rozmiar, miejsce i gojenie
 - [Kontakt](https://shadykhabbaz-cyber.github.io/kontakt/): adres, telefon, godziny
 - [Dojazd z okolic Wielunia](https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/): dojazd z Wieruszowa, Pajęczna, Działoszyna, Osjakowa, Czastar i Białej
 

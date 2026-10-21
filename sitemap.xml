@@ -30,6 +30,7 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/custom-designs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/indywidualne-projekty-tatuazy/"/>
   </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/fine-line-wielun/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/przygotowanie-do-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/przygotowanie-do-tatuazu/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/preparation/"/>
@@ -133,20 +134,56 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/"/>
   </url>
-  <url><loc>https://shadykhabbaz-cyber.github.io/blog/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/blog/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/"/>
+  </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/black-and-grey-vs-realizm/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/co-wplywa-na-cene-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/cover-up-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
-  <url><loc>https://shadykhabbaz-cyber.github.io/blog/czy-tatuaz-boli/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/blog/czy-tatuaz-boli/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/czy-tatuaz-boli/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/does-getting-a-tattoo-hurt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/czy-tatuaz-boli/"/>
+  </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/fine-line-jak-sie-starzeje/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/ile-trwa-sesja-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/jak-umowic-tatuaz-zadatek/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/jak-wybrac-motyw-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
-  <url><loc>https://shadykhabbaz-cyber.github.io/blog/jak-wybrac-studio-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/blog/jak-wybrac-studio-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/jak-wybrac-studio-tatuazu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/how-to-choose-a-tattoo-studio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/jak-wybrac-studio-tatuazu/"/>
+  </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/kiedy-studio-odmowi-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/kolczyk-w-uchu-po-przekluciu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
-  <url><loc>https://shadykhabbaz-cyber.github.io/blog/pielegnacja-piercingu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/blog/pielegnacja-piercingu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/pielegnacja-piercingu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/piercing-aftercare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/pielegnacja-piercingu/"/>
+  </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/tatuaz-sport-i-slonce/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/tydzien-przed-tatuazem/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/zdjecia-referencyjne-do-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/blog/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/blog/does-getting-a-tattoo-hurt/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/czy-tatuaz-boli/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/does-getting-a-tattoo-hurt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/czy-tatuaz-boli/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/blog/how-to-choose-a-tattoo-studio/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/jak-wybrac-studio-tatuazu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/how-to-choose-a-tattoo-studio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/jak-wybrac-studio-tatuazu/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/blog/piercing-aftercare/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/pielegnacja-piercingu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/piercing-aftercare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/pielegnacja-piercingu/"/>
+  </url>
 </urlset>
