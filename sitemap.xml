@@ -65,6 +65,7 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/piercing/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/piercing/"/>
   </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/</loc><lastmod>2026-10-21</lastmod><priority>0.6</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/regulamin/</loc><lastmod>2026-10-21</lastmod><priority>0.1</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/polityka-prywatnosci/</loc><lastmod>2026-10-21</lastmod><priority>0.1</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/en/aftercare/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
@@ -96,6 +97,11 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/pierwszy-tatuaz-wielun/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/first-tattoo/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/pierwszy-tatuaz-wielun/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/contact/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/kontakt/"/>
   </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/en/contact/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/kontakt/"/>

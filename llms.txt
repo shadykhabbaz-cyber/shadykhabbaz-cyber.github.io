@@ -27,6 +27,7 @@ Informacje podstawowe (stan: październik 2026):
 - [FAQ](https://shadykhabbaz-cyber.github.io/faq/): najczęstsze pytania
 - [O nas](https://shadykhabbaz-cyber.github.io/o-nas/): zespół: Shady, Ola, Zuzia, Martyna
 - [Kontakt](https://shadykhabbaz-cyber.github.io/kontakt/): adres, telefon, godziny
+- [Dojazd z okolic Wielunia](https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/): dojazd z Wieruszowa, Pajęczna, Działoszyna, Osjakowa, Czastar i Białej
 
 ## Optional
 - [Blog](https://shadykhabbaz-cyber.github.io/blog/)
