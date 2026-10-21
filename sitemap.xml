@@ -66,7 +66,11 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/piercing/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/piercing/"/>
   </url>
-  <url><loc>https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/</loc><lastmod>2026-10-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/</loc><lastmod>2026-10-21</lastmod><priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/tattoo-near-wielun/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/"/>
+  </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/regulamin/</loc><lastmod>2026-10-21</lastmod><priority>0.1</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/polityka-prywatnosci/</loc><lastmod>2026-10-21</lastmod><priority>0.1</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/en/aftercare/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
@@ -134,12 +138,21 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/"/>
   </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/tattoo-near-wielun/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/tattoo-near-wielun/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/"/>
+  </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/"/>
   </url>
-  <url><loc>https://shadykhabbaz-cyber.github.io/blog/black-and-grey-vs-realizm/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/blog/black-and-grey-vs-realizm/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/black-and-grey-vs-realizm/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/black-and-grey-vs-realism/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/black-and-grey-vs-realizm/"/>
+  </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/co-wplywa-na-cene-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/co-wplywa-na-cene-tatuazu/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/what-affects-the-price-of-a-tattoo/"/>
@@ -183,7 +196,11 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/piercing-aftercare/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/pielegnacja-piercingu/"/>
   </url>
-  <url><loc>https://shadykhabbaz-cyber.github.io/blog/tatuaz-sport-i-slonce/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/blog/tatuaz-sport-i-slonce/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-sport-i-slonce/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/tattoo-exercise-and-sun/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-sport-i-slonce/"/>
+  </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/tydzien-przed-tatuazem/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/zdjecia-referencyjne-do-tatuazu/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/zdjecia-referencyjne-do-tatuazu/"/>
@@ -194,6 +211,11 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/blog/black-and-grey-vs-realism/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/black-and-grey-vs-realizm/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/black-and-grey-vs-realism/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/black-and-grey-vs-realizm/"/>
   </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/en/blog/does-getting-a-tattoo-hurt/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/czy-tatuaz-boli/"/>
@@ -224,6 +246,11 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/cover-up-tatuazu/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/tattoo-cover-up/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/cover-up-tatuazu/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/blog/tattoo-exercise-and-sun/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-sport-i-slonce/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/tattoo-exercise-and-sun/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-sport-i-slonce/"/>
   </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/en/blog/tattoo-reference-photos/</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/zdjecia-referencyjne-do-tatuazu/"/>
