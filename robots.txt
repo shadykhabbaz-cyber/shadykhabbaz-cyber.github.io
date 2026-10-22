@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://shadykhabbaz-cyber.github.io/sitemap.xml
+Sitemap: https://shadykhabbaz-cyber.github.io/tuszopedia/sitemap.xml
