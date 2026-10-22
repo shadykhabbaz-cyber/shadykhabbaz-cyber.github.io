@@ -35,3 +35,6 @@ d.addEventListener('click',e=>{if(e.target===d||e.target.tagName==='FIGURE')clos
 
 // pasek CTA: na stronach z hero pokazuj dopiero po przewinięciu za hero (bez JS pasek widoczny zawsze)
 (function(){var h=document.querySelector('.hero'),b=document.body;if(!h||!('IntersectionObserver' in window))return;b.classList.add('has-hero');new IntersectionObserver(function(e){b.classList.toggle('past-hero',!e[0].isIntersecting)},{rootMargin:'-80px 0px 0px 0px'}).observe(h);})();
+
+// Film studia: lekka fasada (obraz) → <video> z <template> po kliknięciu
+(function(){document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('.vid-facade');if(!a)return;var t=a.parentNode.querySelector('template');if(!t)return;e.preventDefault();var n=t.content.cloneNode(true),v=n.querySelector('video');a.replaceWith(n);if(v){v.focus();var p=v.play();if(p&&p.catch)p.catch(function(){v.muted=true;v.play();});}});})();

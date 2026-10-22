@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url><loc>https://shadykhabbaz-cyber.github.io/</loc><lastmod>2026-10-22</lastmod><priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/"/>
-  </url>
+  <video:video><video:thumbnail_loc>https://shadykhabbaz-cyber.github.io/media/shady-tattoo-film-poster-720.jpg</video:thumbnail_loc><video:title>SHADY TATTOO Wieluń – darmowa wycena tatuażu online</video:title><video:description>Masz projekt, chcesz znać cenę? Napisz – podamy ją za darmo, bez zapisywania się. Film studia SHADY TATTOO z Wielunia.</video:description><video:content_loc>https://shadykhabbaz-cyber.github.io/media/shady-tattoo-film.mp4</video:content_loc><video:duration>10</video:duration><video:publication_date>2026-10-22T10:00:00+02:00</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/pierwszy-tatuaz-wielun/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/pierwszy-tatuaz-wielun/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/first-tattoo/"/>
@@ -45,7 +45,7 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/o-nas/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/o-nas/"/>
-  </url>
+  <video:video><video:thumbnail_loc>https://shadykhabbaz-cyber.github.io/media/shady-tattoo-film-poster-720.jpg</video:thumbnail_loc><video:title>SHADY TATTOO Wieluń – darmowa wycena tatuażu online</video:title><video:description>Masz projekt, chcesz znać cenę? Napisz – podamy ją za darmo, bez zapisywania się. Film studia SHADY TATTOO z Wielunia.</video:description><video:content_loc>https://shadykhabbaz-cyber.github.io/media/shady-tattoo-film.mp4</video:content_loc><video:duration>10</video:duration><video:publication_date>2026-10-22T10:00:00+02:00</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/ceny-tatuazy/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/ceny-tatuazy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/prices/"/>
@@ -71,8 +71,16 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/tattoo-near-wielun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/"/>
   </url>
-  <url><loc>https://shadykhabbaz-cyber.github.io/cover-up-wielun/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://shadykhabbaz-cyber.github.io/odswiezanie-tatuazu-wielun/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/cover-up-wielun/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/cover-up-wielun/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/cover-up-wielun/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/cover-up-wielun/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/odswiezanie-tatuazu-wielun/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/odswiezanie-tatuazu-wielun/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/tattoo-refresh-wielun/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/odswiezanie-tatuazu-wielun/"/>
+  </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/voucher-podarunkowy/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/voucher-podarunkowy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/gift-voucher/"/>
@@ -94,6 +102,11 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/ceny-tatuazy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/prices/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/ceny-tatuazy/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/cover-up-wielun/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/cover-up-wielun/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/cover-up-wielun/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/cover-up-wielun/"/>
   </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/en/custom-designs/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/indywidualne-projekty-tatuazy/"/>
@@ -124,7 +137,7 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/o-nas/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/o-nas/"/>
-  </url>
+  <video:video><video:thumbnail_loc>https://shadykhabbaz-cyber.github.io/media/shady-tattoo-film-poster-720.jpg</video:thumbnail_loc><video:title>SHADY TATTOO Wieluń – darmowa wycena tatuażu online</video:title><video:description>Masz projekt, chcesz znać cenę? Napisz – podamy ją za darmo, bez zapisywania się. Film studia SHADY TATTOO z Wielunia.</video:description><video:content_loc>https://shadykhabbaz-cyber.github.io/media/shady-tattoo-film.mp4</video:content_loc><video:duration>10</video:duration><video:publication_date>2026-10-22T10:00:00+02:00</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/en/piercing/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/piercing/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/piercing/"/>
@@ -149,11 +162,16 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/"/>
-  </url>
+  <video:video><video:thumbnail_loc>https://shadykhabbaz-cyber.github.io/media/shady-tattoo-film-poster-720.jpg</video:thumbnail_loc><video:title>SHADY TATTOO Wieluń – darmowa wycena tatuażu online</video:title><video:description>Masz projekt, chcesz znać cenę? Napisz – podamy ją za darmo, bez zapisywania się. Film studia SHADY TATTOO z Wielunia.</video:description><video:content_loc>https://shadykhabbaz-cyber.github.io/media/shady-tattoo-film.mp4</video:content_loc><video:duration>10</video:duration><video:publication_date>2026-10-22T10:00:00+02:00</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/en/tattoo-near-wielun/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/tattoo-near-wielun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/tattoo-refresh-wielun/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/odswiezanie-tatuazu-wielun/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/tattoo-refresh-wielun/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/odswiezanie-tatuazu-wielun/"/>
   </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/"/>
@@ -213,12 +231,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/types-of-ear-piercing/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/rodzaje-piercingu-ucha/"/>
   </url>
-  <url><loc>https://shadykhabbaz-cyber.github.io/blog/tatuaz-dla-par/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/blog/tatuaz-dla-par/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-dla-par/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/couples-tattoo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-dla-par/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-nadgarstku/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-prezent/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-prezent/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/tattoo-as-a-gift/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-prezent/"/>
   </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-przedramieniu/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://shadykhabbaz-cyber.github.io/blog/tatuaz-sport-i-slonce/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-sport-i-slonce/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/tattoo-exercise-and-sun/"/>
@@ -239,6 +263,11 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/black-and-grey-vs-realizm/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/black-and-grey-vs-realism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/black-and-grey-vs-realizm/"/>
+  </url>
+  <url><loc>https://shadykhabbaz-cyber.github.io/en/blog/couples-tattoo/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-dla-par/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shadykhabbaz-cyber.github.io/en/blog/couples-tattoo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shadykhabbaz-cyber.github.io/blog/tatuaz-dla-par/"/>
   </url>
   <url><loc>https://shadykhabbaz-cyber.github.io/en/blog/does-getting-a-tattoo-hurt/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shadykhabbaz-cyber.github.io/blog/czy-tatuaz-boli/"/>
