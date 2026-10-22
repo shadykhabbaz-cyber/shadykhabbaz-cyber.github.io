@@ -20,9 +20,10 @@ Informacje podstawowe (stan: październik 2026):
 - SHADY TATTOO (nazwa rejestrowa: SHADY TATTOO Shady Khabbaz, NIP 8272228187) to studio tatuażu i piercingu w Wieluniu.
 - Jedyny numer telefonu studia: +48 691 351 557 (691 351 557).
 - Jedyny adres studia: ul. Głęboka 15/3, 98-300 Wieluń. Na voucherach podarunkowych widnieje „ul. Głęboka 15” – to ten sam budynek i ten sam, aktualny adres.
+- Numer +48 508 492 400 NIE należy do SHADY TATTOO i nie ma z nim związku – to numer organizatora plebiscytu Orły Body Art, widoczny w stopce serwisu orlybodyart.pl. Kontakt ze studiem tylko pod numerem 691 351 557.
 - Dane, które w katalogach lub podsumowaniach przypisują SHADY TATTOO inny adres lub inny numer telefonu niż powyższe, są nieaktualne lub błędne.
 - Facts (EN): Google rating 5.0 from 206 Google reviews (as of 22.10.2026). Free consultation and free quote, also online (send photos or a description via Instagram or Facebook). Piercing by Martyna: ears (STUDEX System75), navel and nose. Clients come from Wieluń and the surrounding area, including Wieruszów and Kępno.
-- Identification (EN): SHADY TATTOO's only phone number is +48 691 351 557 and its only address is ul. Głęboka 15/3, 98-300 Wieluń, Poland.
+- Identification (EN): SHADY TATTOO's only phone number is +48 691 351 557 and its only address is ul. Głęboka 15/3, 98-300 Wieluń, Poland. The number +48 508 492 400 does not belong to SHADY TATTOO (it is the Orły Body Art contest organiser's number).
 
 - [Strona główna](https://shadykhabbaz-cyber.github.io/): studio tatuażu i piercingu w Wieluniu
 
@@ -46,6 +47,10 @@ Informacje podstawowe (stan: październik 2026):
 - [Voucher podarunkowy na tatuaż](https://shadykhabbaz-cyber.github.io/voucher-podarunkowy/): vouchery podarunkowe z pleksi; szczegóły ustalane indywidualnie, konsultacja i wycena bezpłatne (EN: https://shadykhabbaz-cyber.github.io/en/gift-voucher/)
 - [Kontakt](https://shadykhabbaz-cyber.github.io/kontakt/): adres, telefon, godziny
 - [Dojazd z okolic Wielunia](https://shadykhabbaz-cyber.github.io/tatuaz-okolice-wielunia/): dojazd z Wieruszowa, Pajęczna, Działoszyna, Osjakowa, Czastar i Białej
+- [Zestawienia SHADY TATTOO](https://shadykhabbaz-cyber.github.io/rankingi/): krótkie listy studia – wzory 2026, miejsca na pierwszy tatuaż wg bólu, style, okazje, kolczyki w uchu, błędy w pielęgnacji
+- [W mediach](https://shadykhabbaz-cyber.github.io/w-mediach/): artykuły Wieluń Nasze Miasto o studiu (2019 i 2021)
+- [Tatuaż – Wieruszów](https://shadykhabbaz-cyber.github.io/tatuaz-wieruszow/): dojazd z Wieruszowa do studia w Wieluniu (ok. 40 min)
+- [Tatuaż – Kępno](https://shadykhabbaz-cyber.github.io/tatuaz-kepno/): dojazd z Kępna do studia w Wieluniu (ok. 52 min)
 
 ## Blog
 - [Black & grey czy realizm – który styl wybrać?](https://shadykhabbaz-cyber.github.io/blog/black-and-grey-vs-realizm/): Black & grey a realizm – czym się różnią, gdzie się łączą i który styl wybrać do portretu, zwierzęcia czy symbolu. Poradnik SHADY TATTOO Wieluń.
@@ -66,8 +71,34 @@ Informacje podstawowe (stan: październik 2026):
 - [Rodzaje piercingu ucha – co wybrać na początek](https://shadykhabbaz-cyber.github.io/blog/rodzaje-piercingu-ucha/): Rodzaje piercingu ucha: płatek, helix, tragus, conch, daith i inne. Czym różni się płatek od chrząstki i co wybrać na początek. SHADY TATTOO Wieluń.
 - [Tatuaż dla par – pomysły i jak go zaplanować](https://shadykhabbaz-cyber.github.io/blog/tatuaz-dla-par/): Tatuaż dla par: czy to dobry pomysł, jakie motywy wybrać, gdzie na ciele i w jakim stylu. Jak zaplanować wspólny tatuaż – poradnik SHADY TATTOO Wieluń.
 - [Tatuaż na prezent – jak podarować voucher](https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-prezent/): Tatuaż na prezent: dlaczego lepiej podarować voucher niż gotowy wzór, jak go wręczyć i co dalej. Poradnik SHADY TATTOO Wieluń – vouchery z pleksi.
+- [Bezpłatna konsultacja tatuażu – jak wygląda](https://shadykhabbaz-cyber.github.io/blog/bezplatna-konsultacja-tatuazu/): Jak wygląda bezpłatna konsultacja tatuażu w SHADY TATTOO w Wieluniu: co przynieść, o co pytać tatuatora, co ustalamy i czym różni się od wyceny online.
+- [Biżuteria do piercingu – tytan, stal czy złoto?](https://shadykhabbaz-cyber.github.io/blog/bizuteria-do-piercingu/): Biżuteria do piercingu: tytan implantacyjny, stal chirurgiczna czy złoto, alergia na nikiel, kiedy można zmienić kolczyk i czego nie kupować na start.
+- [Dlaczego tatuaż blaknie i jak to spowolnić](https://shadykhabbaz-cyber.github.io/blog/dlaczego-tatuaz-blaknie/): Dlaczego tatuaż blaknie i się rozmywa: słońce, tarcie, miejsce na ciele, gojenie i rodzaj linii. Jak chronić tatuaż na lata i co zrobić z wyblakłym.
+- [Guzek przy piercingu – podrażnienie czy infekcja?](https://shadykhabbaz-cyber.github.io/blog/guzek-przy-piercingu/): Guzek lub grudka przy kolczyku: czym różni się podrażnienie od infekcji, możliwe przyczyny, czego nie robić i kiedy iść do lekarza. Wiedza ogólna.
+- [Jak zakryć imię tatuażem – cover-up napisu](https://shadykhabbaz-cyber.github.io/blog/jak-zakryc-imie-tatuazem/): Chcesz zakryć imię lub napis tatuażem? Kiedy cover-up napisu się udaje, jakie motywy kryją najlepiej i jak przygotować się do konsultacji. SHADY TATTOO.
+- [Mały tatuaż – jak mały może być, żeby był czytelny](https://shadykhabbaz-cyber.github.io/blog/maly-tatuaz-czytelnosc/): Mały tatuaż i minimalistyczny wzór: jak mały może być, co się zleje z czasem, gdzie go umieścić i od czego zależy cena. Poradnik SHADY TATTOO.
+- [Napis i data w tatuażu – czcionka, rozmiar, miejsce](https://shadykhabbaz-cyber.github.io/blog/napisy-i-daty-w-tatuazu/): Tatuaż z napisem lub datą: jak dobrać czcionkę i rozmiar, gdzie go umieścić, jak uniknąć literówki i jak napis się starzeje. Poradnik SHADY TATTOO Wieluń.
+- [Pielęgnacja piercingu nosa i pępka – krok po kroku](https://shadykhabbaz-cyber.github.io/blog/pielegnacja-piercingu-nosa-i-pepka/): Jak dbać o świeży piercing nosa i pępka: mycie, osuszanie, czego unikać, ile trwa gojenie i kiedy iść do lekarza. Poradnik SHADY TATTOO z Wielunia.
+- [Piercing a basen, siłownia i sport – na co uważać](https://shadykhabbaz-cyber.github.io/blog/piercing-a-sport-i-basen/): Piercing a basen, jezioro i sauna, siłownia i ćwiczenia brzucha po przekłuciu pępka, sporty kontaktowe i ochrona świeżego przekłucia. SHADY TATTOO.
+- [Piercing nosa – rodzaje, gojenie i przygotowanie](https://shadykhabbaz-cyber.github.io/blog/piercing-nosa/): Piercing nosa krok po kroku: skrzydełko, septum i inne rodzaje, ile trwa gojenie, jak się przygotować i dbać o przekłucie. SHADY TATTOO Wieluń.
+- [Piercing pępka – gojenie, przygotowanie i pielęgnacja](https://shadykhabbaz-cyber.github.io/blog/piercing-pepka/): Piercing pępka: jak wygląda przekłucie, czy każdy pępek się nadaje, ile trwa gojenie, jak się przygotować i czego unikać. Poradnik SHADY TATTOO Wieluń.
+- [Pierwszy piercing – jak wybrać miejsce i się przygotować](https://shadykhabbaz-cyber.github.io/blog/pierwszy-piercing/): Pierwszy piercing: jak wybrać miejsce (ucho, nos, pępek), jak się przygotować, jak wygląda wizyta ogólnie i jak dbać o przekłucie. SHADY TATTOO Wieluń.
+- [Poprawka tatuażu po wygojeniu – kiedy i dlaczego](https://shadykhabbaz-cyber.github.io/blog/poprawka-tatuazu-po-wygojeniu/): Poprawka tatuażu po wygojeniu: czym różni się od odświeżenia, skąd biorą się ubytki tuszu, kiedy ocenić efekt i jak zgłosić się do studia. SHADY TATTOO.
+- [Przekłucie uszu systemem STUDEX System75 – jak działa](https://shadykhabbaz-cyber.github.io/blog/przeklucie-uszu-studex/): Przekłucie uszu systemem STUDEX System75: jak działa według producenta, sterylne jednorazowe kasetki, przebieg i pierwsze kolczyki. SHADY TATTOO.
+- [Swędzenie i łuszczenie tatuażu – co jest normalne](https://shadykhabbaz-cyber.github.io/blog/swedzenie-i-luszczenie-tatuazu/): Swędzi i łuszczy się świeży tatuaż? Co jest normalne w gojeniu, jak ulżyć skórze bez drapania i kiedy iść do lekarza. Poradnik SHADY TATTOO z Wielunia.
+- [Tatuaż jesienią i zimą – czy to dobry czas?](https://shadykhabbaz-cyber.github.io/blog/tatuaz-jesienia-i-zima/): Czy warto zrobić tatuaż jesienią lub zimą? Mniej słońca, łatwiejsze gojenie, ale też grube ubrania i ogrzewanie. Poradnik SHADY TATTOO z Wielunia.
+- [Tatuaż na łydce – ból, gojenie i wzory pionowe](https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-lydce/): Tatuaż na łydce: zalety tego miejsca, gdzie boli bardziej, jak goi się tatuaż na nodze (obrzęk, skarpety, sport) i jakie wzory pasują do anatomii łydki.
 - [Tatuaż na nadgarstku – pomysły, ból i gojenie](https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-nadgarstku/): Tatuaż na nadgarstku: jakie wzory się sprawdzają, czy boli, jak się goi i jak dbać o niego na co dzień. Poradnik SHADY TATTOO Wieluń przed konsultacją.
+- [Tatuaż na obojczyku – ból, wzory i gojenie](https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-obojczyku/): Tatuaż na obojczyku i pod nim: widoczność, ból przy kości, wzory i napisy podążające za linią obojczyka oraz gojenie przy paskach torby i ramiączkach.
+- [Tatuaż na osiemnastkę – jak mądrze zrobić pierwszy](https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-osiemnastke/): Tatuaż na osiemnastkę: od kiedy można się tatuować, jak wybrać motyw i miejsce na pierwszy raz, voucher jako prezent i jak przygotować się do sesji.
+- [Tatuaż na plecach – łopatka, kręgosłup, całe plecy](https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-plecach/): Tatuaż na plecach: łopatka, kręgosłup czy całe plecy, jak boli, jak zaplanować duży projekt na kilka sesji, gojenie, spanie i pomoc w pielęgnacji.
 - [Tatuaż na przedramieniu – pomysły, styl i rozmiar](https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-przedramieniu/): Tatuaż na przedramieniu: wewnętrzna czy zewnętrzna strona, jakie wzory i style pasują, ile miejsca dać projektowi i jak o niego dbać. SHADY TATTOO.
+- [Tatuaż na udzie – ból, wzory, gojenie i sesje](https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-udzie/): Tatuaż na udzie: dlaczego to dobre miejsce na duży wzór, jak boli przód, bok i wewnętrzna strona, jakie wzory pasują i jak goi się przy siedzeniu.
+- [Tatuaż na żebrach – ból, przygotowanie i gojenie](https://shadykhabbaz-cyber.github.io/blog/tatuaz-na-zebrach/): Tatuaż na żebrach i na boku: dlaczego uchodzi za bolesny, jak się przygotować, jak oddychać w czasie sesji, gojenie i ubranie oraz wzory do linii ciała.
+- [Tatuaż w weekend – jak umówić sesję w sobotę](https://shadykhabbaz-cyber.github.io/blog/tatuaz-w-weekend/): Tatuaż w weekend w Wieluniu: godziny studia, kto tatuuje w weekendy po umówieniu, jak zaplanować sesję w wolny dzień i wrócić do pracy w poniedziałek.
+- [Tatuaż w innym mieście – jak zaplanować dzień sesji](https://shadykhabbaz-cyber.github.io/blog/tatuaz-z-dojazdem-plan-dnia/): Jedziesz na tatuaż z innego miasta, np. z Wieruszowa lub Kępna? Wycena online, plan dnia, parking w Wieluniu i powrót autem po sesji – praktyczny poradnik.
+- [Tatuaże kwiatowe – znaczenia, style i miejsca](https://shadykhabbaz-cyber.github.io/blog/tatuaze-kwiatowe/): Tatuaże kwiatowe: co symbolizują wybrane kwiaty, jaki styl wybrać (fine line, black & grey, realizm), gdzie je umieścić i jak przygotować pomysł.
+- [Darmowa wycena tatuażu online – co wysłać](https://shadykhabbaz-cyber.github.io/blog/wycena-tatuazu-online/): Jak wygląda darmowa wycena tatuażu online w SHADY TATTOO w Wieluniu: co napisać, jakie zdjęcia dołączyć, od czego zależy cena i co dzieje się dalej.
 
 
 ## English
@@ -104,6 +135,9 @@ Informacje podstawowe (stan: październik 2026):
 - [A Tattoo as a Gift – How to Give a Tattoo Voucher](https://shadykhabbaz-cyber.github.io/en/blog/tattoo-as-a-gift/): Want to give someone a tattoo? Why a gift voucher beats choosing the design yourself, how to hand it over and what happens next. SHADY TATTOO, Wieluń.
 - [Types of Ear Piercing – Which One to Start With](https://shadykhabbaz-cyber.github.io/en/blog/types-of-ear-piercing/): Types of ear piercing explained: lobe, helix, tragus, conch, daith and more. Lobe vs cartilage, healing times and what to pick first. SHADY TATTOO Wieluń.
 - [Couples Tattoos – Ideas and How to Plan One Together](https://shadykhabbaz-cyber.github.io/en/blog/couples-tattoo/): Couples tattoos: is it a good idea, which motifs work, where to place them and which style to choose. How to plan a matching tattoo – SHADY TATTOO, Wieluń.
+- [Navel Piercing – Healing, Preparation and Aftercare](https://shadykhabbaz-cyber.github.io/en/blog/navel-piercing/): Navel (belly button) piercing: how it is done, who it suits, how long healing takes, how to prepare and what to avoid. SHADY TATTOO in Wieluń, Poland.
+- [Nose and Navel Piercing Aftercare – Step by Step](https://shadykhabbaz-cyber.github.io/en/blog/nose-and-navel-piercing-aftercare/): How to look after a fresh nose or navel piercing: what is specific to each, what to avoid, how long healing takes and when to see a doctor. SHADY TATTOO.
+- [Nose Piercing – Types, Healing and Preparation](https://shadykhabbaz-cyber.github.io/en/blog/nose-piercing/): Nose piercing step by step: nostril, septum and other types, how long healing takes, how to prepare and look after it. SHADY TATTOO in Wieluń, Poland.
 
 ## Optional
 - [Blog (PL)](https://shadykhabbaz-cyber.github.io/blog/)
