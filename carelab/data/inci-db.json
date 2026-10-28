@@ -1,0 +1,947 @@
+{
+  "project": "Shady Care Lab",
+  "publisher": {
+    "name": "SHADY TATTOO",
+    "url": "https://shadykhabbaz-cyber.github.io/"
+  },
+  "version": "1.0.0",
+  "updated": "2026-10-29",
+  "status": "ZAAKCEPTOWANO PRZEZ WŁAŚCICIELA (2026-10-29)",
+  "medical_disclaimer": "Materiał ma charakter wyłącznie informacyjno-edukacyjny i nie zastępuje porady lekarskiej. W przypadku niepokojących objawów zdrowotnych skonsultuj się z lekarzem.",
+  "rating_legend": {
+    "zalecany_od_1_dnia": "Składnik łagodzący, humektant lub lekki emolient dobrze tolerowany już w fazie świeżej rany naskórkowej (przy nakładaniu cienką warstwą).",
+    "dobry_w_cienkiej_warstwie": "Emolient tworzący barierę ochronną; bezpieczny na gojący się tatuaż pod warunkiem nakładania bardzo cienkiej warstwy (nadmiar może powodować okluzję i macerację).",
+    "neutralny_bazowy": "Składnik bazowy, rozpuszczalnik, emulgator lub łagodny konserwant niezbędny dla stabilności mikrobiologicznej preparatu.",
+    "ostroznie_na_swiezy_tatuaz": "Składnik o podwyższonym potencjale alergizującym lub okluzyjnym na uszkodzony naskórek; lepiej sprawdza się po zamknięciu naskórka (po 2–3 tygodniach).",
+    "unikac_na_swieza_rane": "Składnik drażniący, wysuszający lub deklarowany alergen zapachowy – niezalecany na świeżo wytatuowaną skórę."
+  },
+  "ingredients": [
+    {
+      "id": "panthenol",
+      "inci": "Panthenol",
+      "name_pl": "Pantenol (prowitamina B5)",
+      "cas": "81-13-0 / 16485-10-2",
+      "cosing_functions": [
+        "HUM HUMECTANT",
+        "SKIN CONDITIONING"
+      ],
+      "category": "Substancja łagodząca i wspierająca barierę naskórkową",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "niskie",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Prowitamina B5 po wniknięciu w naskórek przekształca się w kwas pantotenowy. Wiąże wodę w warstwie rogowej, zmniejsza przeznaskórkową utratę wody (TEWL), łagodzi pieczenie i wspiera fizjologiczną epitelializację po nakłuciach igłą.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Panthenol",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "PubMed Central (PMC) – Panthenol in skin barrier repair",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5561188/"
+        }
+      ]
+    },
+    {
+      "id": "aqua",
+      "inci": "Aqua",
+      "name_pl": "Woda oczyszczona",
+      "cas": "7732-18-5",
+      "cosing_functions": [
+        "SOLVENT"
+      ],
+      "category": "Rozpuszczalnik bazowy",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "brak",
+      "explanation_pl": "Podstawowy rozpuszczalnik w lekkich kremach i emulsjach typu O/W (olej w wodzie). Obecność fazy wodnej sprawia, że krem łatwiej się rozprowadza i tworzy cieńszą, mniej okluzyjną warstwę niż czyste maści czy masła bezwodne (wymaga jednak układu konserwującego).",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Aqua",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "American Academy of Dermatology (AAD) – Caring for tattooed skin (water-based lotion/cream)",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/tattoos/caring-for-tattooed-skin"
+        }
+      ]
+    },
+    {
+      "id": "glycerin",
+      "inci": "Glycerin",
+      "name_pl": "Gliceryna roślinna",
+      "cas": "56-81-5",
+      "cosing_functions": [
+        "DENATURANT",
+        "HUMECTANT",
+        "SKIN PROTECTING",
+        "VISCOSITY CONTROLLING"
+      ],
+      "category": "Humektant (substancja nawilżająca)",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "niskie",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Jeden z najlepiej przebadanych humektantów dermatologicznych. Przyciąga i zatrzymuje cząsteczki wody w warstwie rogowej naskórka, ograniczając sztywnienie i pękanie przesuszonego naskórka w fazie łuszczenia tatuażu.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Glycerin",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "Cleveland Clinic – Tattoo Aftercare",
+          "url": "https://my.clevelandclinic.org/health/treatments/11022-tattoo-aftercare"
+        }
+      ]
+    },
+    {
+      "id": "allantoin",
+      "inci": "Allantoin",
+      "name_pl": "Alantoina",
+      "cas": "97-59-6",
+      "cosing_functions": [
+        "SKIN CONDITIONING",
+        "SKIN PROTECTING",
+        "SOOTHING"
+      ],
+      "category": "Substancja kojąca i keratolityczna",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Działa kojąco na podrażniony naskórek, zmniejsza uczucie ściągnięcia i swędzenia podczas regeneracji oraz ułatwia oddzielanie się martwych komórek warstwy rogowej bez mechanicznego drapania.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Allantoin",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "butyrospermum-parkii-butter",
+      "inci": "Butyrospermum Parkii Butter",
+      "name_pl": "Masło shea (karite)",
+      "cas": "194043-92-0 / 91080-23-8",
+      "cosing_functions": [
+        "SKIN CONDITIONING",
+        "VISCOSITY CONTROLLING"
+      ],
+      "category": "Emolient roślinny",
+      "fresh_tattoo_rating": "dobry_w_cienkiej_warstwie",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "umiarkowane",
+      "sensitization_potential": "niski",
+      "explanation_pl": "Bogate w kwasy tłuszczowe (oleinowy i stearynowy) oraz frakcję niezmydlalną (fitosterole, tokoferole). Zmiękcza naskórek i ogranicza utratę wilgoci. Na świeży tatuaż należy nakładać bardzo cienką warstwę po rozgrzaniu w dłoniach, aby nie zablokować odparowywania osocza.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Butyrospermum Parkii Butter",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "PubMed Central (PMC) – Anti-inflammatory and skin barrier effects of plant oils/butters",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5796020/"
+        }
+      ]
+    },
+    {
+      "id": "prunus-amygdalus-dulcis-oil",
+      "inci": "Prunus Amygdalus Dulcis Oil",
+      "name_pl": "Olej ze słodkich migdałów",
+      "cas": "8007-69-0 / 90320-37-9",
+      "cosing_functions": [
+        "SKIN CONDITIONING"
+      ],
+      "category": "Emolient roślinny",
+      "fresh_tattoo_rating": "dobry_w_cienkiej_warstwie",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "niskie_do_umiarkowanego",
+      "sensitization_potential": "niski (ostrożność przy silnej alergii na orzechy/migdały)",
+      "explanation_pl": "Lekki olej roślinny bogaty w kwas oleinowy i linolowy. Ułatwia rozprowadzanie maseł i kremów bez ciągnięcia bolącej skóry oraz uelastycznia regenerujący się naskórek.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Prunus Amygdalus Dulcis Oil",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "PubMed Central (PMC) – Plant Oils and Skin Barrier Repair",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5796020/"
+        }
+      ]
+    },
+    {
+      "id": "helianthus-annuus-seed-oil",
+      "inci": "Helianthus Annuus Seed Oil",
+      "name_pl": "Olej z nasion słonecznika",
+      "cas": "8001-21-6",
+      "cosing_functions": [
+        "EMOLLIENT",
+        "SKIN CONDITIONING"
+      ],
+      "category": "Emolient roślinny bogaty w kwas linolowy",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "niskie",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Wykazuje wysoką zawartość kwasu linolowego (omega-6), który wspiera odbudowę lipidów międzykomórkowych warstwy rogowej bez tworzenia ciężkiego, duszącego filmu na skórze.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Helianthus Annuus Seed Oil",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "PubMed Central (PMC) – Sunflower seed oil and skin barrier integrity",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5796020/"
+        }
+      ]
+    },
+    {
+      "id": "simmondsia-chinensis-seed-oil",
+      "inci": "Simmondsia Chinensis Seed Oil",
+      "name_pl": "Olej jojoba",
+      "cas": "90045-98-0 / 61789-91-1",
+      "cosing_functions": [
+        "EMOLLIENT",
+        "SKIN CONDITIONING"
+      ],
+      "category": "Ciekły wosk estrowy (emolient)",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "niskie",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Pod względem chemicznym jest ciekłym estrem woskowym o budowie zbliżonej do naturalnego ludzkiego sebum. Szybko się wchłania, nie jełczeje łatwo i nie zatyka ujść mieszków włosowych.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Simmondsia Chinensis Seed Oil",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "PubMed Central (PMC) – Jojoba Oil in Dermatology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8197201/"
+        }
+      ]
+    },
+    {
+      "id": "macadamia-ternifolia-seed-oil",
+      "inci": "Macadamia Ternifolia Seed Oil",
+      "name_pl": "Olej makadamia",
+      "cas": "128497-20-1 / 129811-19-4",
+      "cosing_functions": [
+        "EMOLLIENT",
+        "SKIN CONDITIONING"
+      ],
+      "category": "Emolient roślinny",
+      "fresh_tattoo_rating": "dobry_w_cienkiej_warstwie",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "niskie_do_umiarkowanego",
+      "sensitization_potential": "niski",
+      "explanation_pl": "Zawiera kwas oleinowy i palmitooleinowy (obecny naturalnie w lipidach naskórka). Zmiękcza łuszczący się naskórek i poprawia poślizg preparatu.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Macadamia Ternifolia Seed Oil",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "cocos-nucifera-oil",
+      "inci": "Cocos Nucifera Oil",
+      "name_pl": "Olej kokosowy",
+      "cas": "8001-31-8",
+      "cosing_functions": [
+        "EMOLLIENT",
+        "SKIN CONDITIONING"
+      ],
+      "category": "Emolient roślinny (tłuszcz nasycony)",
+      "fresh_tattoo_rating": "dobry_w_cienkiej_warstwie",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "umiarkowane_do_wysokiego",
+      "sensitization_potential": "niski",
+      "explanation_pl": "Bogaty w kwas laurynowy; szybko topi się w temperaturze skóry. W czystej postaci lub w nadmiarze bywa komedogenny (może sprzyjać grudkom przymieszkowym na świeżo ogolonej i wytatuowanej skórze), dlatego w pierwszych dniach lepiej sprawdza się jako dodatek w lekkiej emulsji niż nakładany grubą warstwą.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Cocos Nucifera Oil",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "PubMed Central (PMC) – Plant Oils on Skin Barrier",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5796020/"
+        }
+      ]
+    },
+    {
+      "id": "squalane",
+      "inci": "Squalane",
+      "name_pl": "Skwalan",
+      "cas": "111-01-3",
+      "cosing_functions": [
+        "EMOLLIENT",
+        "SKIN CONDITIONING"
+      ],
+      "category": "Emolient biozgodny z barierą lipidową",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "bardzo niskie",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Stabilna, nasycona forma skwalenu – naturalnego składnika ludzkiego płaszcza hydrolipidowego. Jest wyjątkowo lekki, niekomedogenny, nie utlenia się na skórze i wspiera regenerację bariery naskórkowej bez tłustego filmu.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Squalane",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "ceramide-np",
+      "inci": "Ceramide NP",
+      "name_pl": "Ceramidy (Ceramide NP / Ceramide 3)",
+      "cas": "100403-19-8",
+      "cosing_functions": [
+        "SKIN CONDITIONING"
+      ],
+      "category": "Lipid cementu międzykomórkowego",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Kluczowy składnik tzw. cementu międzykomórkowego warstwy rogowej naskórka. Uzupełnia ubytki lipidowe powstałe po wielokrotnym nakłuwaniu skóry i przyspiesza przywrócenie szczelności bariery ochronnej.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Ceramide NP",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "madecassoside",
+      "inci": "Madecassoside",
+      "name_pl": "Madekasozyd (frakcja wąkroty azjatyckiej – Centella Asiatica)",
+      "cas": "34540-22-2",
+      "cosing_functions": [
+        "ANTIOXIDANT",
+        "SKIN CONDITIONING",
+        "SOOTHING"
+      ],
+      "category": "Substancja kojąca i regenerująca",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Oczyszczony triterpen pozyskiwany z wąkroty azjatyckiej (Centella asiatica). W badaniach dermatologicznych wykazuje działanie łagodzące rumień i wspomagające prawidłową przebudowę naskórka.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Madecassoside",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "PubMed Central (PMC) – Centella asiatica in dermatology and wound healing",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3834700/"
+        }
+      ]
+    },
+    {
+      "id": "centella-asiatica-extract",
+      "inci": "Centella Asiatica Extract",
+      "name_pl": "Ekstrakt z wąkroty azjatyckiej (Cica)",
+      "cas": "84696-21-9",
+      "cosing_functions": [
+        "SKIN CONDITIONING",
+        "SOOTHING",
+        "TONIC"
+      ],
+      "category": "Ekstrakt roślinny łagodzący",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "niski",
+      "explanation_pl": "Zawiera azjatykozyd, madekasozyd oraz kwasy azjatykowy i madekasowy. Stosowany w dermokosmetykach typu Cica w celu redukcji podrażnień i wsparcia regeneracji bariery skórnej.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Centella Asiatica Extract",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "PubMed Central (PMC) – Centella asiatica in dermatology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3834700/"
+        }
+      ]
+    },
+    {
+      "id": "bisabolol",
+      "inci": "Bisabolol",
+      "name_pl": "Alfa-bisabolol",
+      "cas": "515-69-5 / 23089-26-1",
+      "cosing_functions": [
+        "SKIN CONDITIONING",
+        "SOOTHING"
+      ],
+      "category": "Substancja kojąca",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "niski (dużo niższy niż pełny ekstrakt z rumianku)",
+      "explanation_pl": "Główny izolowany związek aktywny rumianku, pozbawiony większości białkowych alergenów obecnych w surowym wyciągu roślinnym. Łagodzi zaczerwienienie i świąd gojącego się naskórka.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Bisabolol",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "sodium-hyaluronate",
+      "inci": "Sodium Hyaluronate",
+      "name_pl": "Hialuronian sodu (kwas hialuronowy)",
+      "cas": "9067-32-7",
+      "cosing_functions": [
+        "HUMECTANT",
+        "SKIN CONDITIONING"
+      ],
+      "category": "Humektant wielkocząsteczkowy",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Fizjologiczny polisacharyd wiążący wodę na powierzchni naskórka bez zatykania porów. Tworzy paroprzepuszczalny film nawilżający, który zmniejsza uczucie ściągnięcia.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Sodium Hyaluronate",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "aloe-barbadensis-leaf-juice",
+      "inci": "Aloe Barbadensis Leaf Juice",
+      "name_pl": "Sok z liści aloesu",
+      "cas": "85507-69-3 / 94349-62-9",
+      "cosing_functions": [
+        "EMOLLIENT",
+        "HUMECTANT",
+        "SKIN CONDITIONING"
+      ],
+      "category": "Substancja nawilżająca i kojąca",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "niski",
+      "explanation_pl": "Działa chłodząco i nawilżająco. Najlepiej sprawdza się w połączeniu z emolientami (sam czysty żel aloesowy bez fazy lipidowej po odparowaniu wody może dawać uczucie ściągnięcia).",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Aloe Barbadensis Leaf Juice",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "tocopheryl-acetate",
+      "inci": "Tocopheryl Acetate",
+      "name_pl": "Octan tokoferylu / Tokoferol (witamina E)",
+      "cas": "7695-91-2 / 58-95-7",
+      "cosing_functions": [
+        "ANTIOXIDANT",
+        "SKIN CONDITIONING"
+      ],
+      "category": "Antyoksydant",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "brak (w typowych stężeniach kosmetycznych)",
+      "sensitization_potential": "niski (w niskich stężeniach; nie należy wyciskać czystych kapsułek witaminy E bezpośrednio na ranę)",
+      "explanation_pl": "W kremach do tatuażu chroni lipidy naskórka oraz oleje roślinne w recepturze przed utlenianiem (jełczeniem). W niskich stężeniach kosmetycznych jest bezpieczny i dobrze tolerowany.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Tocopheryl Acetate",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "caprylic-capric-triglyceride",
+      "inci": "Caprylic/Capric Triglyceride",
+      "name_pl": "Trójglicerydy kaprylowo-kaprynowe (olej neutralny)",
+      "cas": "73398-61-5 / 65381-09-1",
+      "cosing_functions": [
+        "EMOLLIENT",
+        "SKIN CONDITIONING",
+        "SOLVENT"
+      ],
+      "category": "Lekki emolient obojętny",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "niskie",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Frakcjonowany, nasycony emolient pochodzenia roślinnego. Zapewnia świetny poślizg przy nakładaniu kremu na obolałą skórę, nie jełczeje i nie tworzy ciężkiej warstwy okluzyjnej.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Caprylic/Capric Triglyceride",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "cetearyl-alcohol",
+      "inci": "Cetearyl Alcohol",
+      "name_pl": "Alkohol cetearylowy (alkohol tłuszczowy)",
+      "cas": "67762-27-0 / 8005-44-5",
+      "cosing_functions": [
+        "EMOLLIENT",
+        "EMULSIFYING",
+        "EMULSION STABILISING",
+        "VISCOSITY CONTROLLING"
+      ],
+      "category": "Emolient i emulgator (tzw. dobry alkohol tłuszczowy)",
+      "fresh_tattoo_rating": "neutralny_bazowy",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "niskie",
+      "sensitization_potential": "niski",
+      "explanation_pl": "Wbrew słowu „Alcohol” w nazwie INCI nie ma nic wspólnego z wysuszającym alkoholem etylowym. Jest to łagodny woskowy alkohol tłuszczowy, który zmiękcza skórę i stabilizuje lekkie kremy nawilżające.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Cetearyl Alcohol",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "FDA – Alcohol Free and Fatty Alcohols in Cosmetics",
+          "url": "https://www.fda.gov/cosmetics/cosmetics-labeling-claims/alcohol-free"
+        }
+      ]
+    },
+    {
+      "id": "cera-alba",
+      "inci": "Cera Alba",
+      "name_pl": "Wosk pszczeli",
+      "cas": "8012-89-3",
+      "cosing_functions": [
+        "EMOLLIENT",
+        "EMULSIFYING",
+        "FILM FORMING",
+        "PERFOMING"
+      ],
+      "category": "Składnik filmotwórczy i zagęszczający",
+      "fresh_tattoo_rating": "ostroznie_na_swiezy_tatuaz",
+      "healed_tattoo_rating": "dobry_w_cienkiej_warstwie",
+      "occlusion_risk": "umiarkowane_do_wysokiego",
+      "sensitization_potential": "umiarkowany (u osób uczulonych na propolis i produkty pszczele)",
+      "explanation_pl": "Nadaje maściom i masłom zwartą konsystencję oraz tworzy ochronny film na skórze. Osoby z alergią kontaktową na propolis powinny wybierać preparaty z woskami roślinnymi lub syntetycznymi.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Cera Alba",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "DermNet NZ – Contact allergy to propolis and beeswax",
+          "url": "https://dermnetnz.org/topics/propolis-allergy"
+        }
+      ]
+    },
+    {
+      "id": "lanolin",
+      "inci": "Lanolin",
+      "name_pl": "Lanolina (wosk owczy)",
+      "cas": "8006-54-0",
+      "cosing_functions": [
+        "ANTISTATIC",
+        "EMOLLIENT",
+        "EMULSIFYING",
+        "HAIR CONDITIONING",
+        "SKIN CONDITIONING"
+      ],
+      "category": "Silny emolient okluzyjno-regenerujący",
+      "fresh_tattoo_rating": "ostroznie_na_swiezy_tatuaz",
+      "healed_tattoo_rating": "dobry_w_cienkiej_warstwie",
+      "occlusion_risk": "wysokie (przy zbyt grubej warstwie)",
+      "sensitization_potential": "umiarkowany (alkohole lanolinowe są znanym alergenem kontaktowym u części populacji)",
+      "explanation_pl": "Skutecznie zatrzymuje wodę w naskórku (obecna np. w tradycyjnych maściach z dekspantenolem), ale jest gęsta, lepka i u osób wrażliwych może wywoływać alergiczne kontaktowe zapalenie skóry lub potówki z okluzji.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Lanolin",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "DermNet NZ – Lanolin allergy (wool alcohols)",
+          "url": "https://dermnetnz.org/topics/lanolin-allergy"
+        }
+      ]
+    },
+    {
+      "id": "petrolatum",
+      "inci": "Petrolatum",
+      "name_pl": "Wazelina biała (100% lub baza maściowa)",
+      "cas": "8009-03-8",
+      "cosing_functions": [
+        "ANTISTATIC",
+        "EMOLLIENT",
+        "SKIN CONDITIONING",
+        "SKIN PROTECTING"
+      ],
+      "category": "Silny emolient okluzyjny",
+      "fresh_tattoo_rating": "ostroznie_na_swiezy_tatuaz",
+      "healed_tattoo_rating": "neutralny_bazowy",
+      "occlusion_risk": "bardzo wysokie",
+      "sensitization_potential": "bardzo niski (chemicznie obojętna, ale silnie okluzyjna)",
+      "explanation_pl": "Używana przez tatuatorów w trakcie samej sesji (zmniejsza tarcie podczas wycierania skóry). W domowym gojeniu AAD zaleca unikanie produktów w 100% opartych na wazelinie, ponieważ tworzą nieprzepuszczalną barierę, zatrzymują ciepło i osocze, sprzyjają maceracji naskórka i przedwczesnemu blaknięciu tuszu.",
+      "sources": [
+        {
+          "name": "American Academy of Dermatology (AAD) – Caring for tattooed skin (avoid 100% petroleum products during healing)",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/tattoos/caring-for-tattooed-skin"
+        },
+        {
+          "name": "Cleveland Clinic – Tattoo Aftercare",
+          "url": "https://my.clevelandclinic.org/health/treatments/11022-tattoo-aftercare"
+        }
+      ]
+    },
+    {
+      "id": "paraffinum-liquidum",
+      "inci": "Paraffinum Liquidum",
+      "name_pl": "Parafina ciekła (olej mineralny)",
+      "cas": "8012-95-1",
+      "cosing_functions": [
+        "ANTISTATIC",
+        "EMOLLIENT",
+        "SKIN PROTECTING",
+        "SOLVENT"
+      ],
+      "category": "Emolient okluzyjny pochodzenia mineralnego",
+      "fresh_tattoo_rating": "ostroznie_na_swiezy_tatuaz",
+      "healed_tattoo_rating": "neutralny_bazowy",
+      "occlusion_risk": "wysokie (w wysokich stężeniach maściowych)",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Obojętny chemicznie olej mineralny. W lekkich emulsjach w małym stężeniu nie stanowi problemu, jednak ciężkie maści parafinowe nakładane grubą warstwą na świeży tatuaż mogą powodować okluzję mieszków włosowych.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Paraffinum Liquidum",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "American Academy of Dermatology (AAD) – Caring for tattooed skin",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/tattoos/caring-for-tattooed-skin"
+        }
+      ]
+    },
+    {
+      "id": "zinc-oxide",
+      "inci": "Zinc Oxide",
+      "name_pl": "Tlenek cynku (w wysokich stężeniach wysuszających vs niskich w balsamach B5)",
+      "cas": "1314-13-2",
+      "cosing_functions": [
+        "BULKING",
+        "COLORANT",
+        "SKIN PROTECTING",
+        "UV ABSORBER"
+      ],
+      "category": "Substancja ściągająca / filtr mineralny",
+      "fresh_tattoo_rating": "ostroznie_na_swiezy_tatuaz",
+      "healed_tattoo_rating": "zalecany (jako filtr UV SPF 50+ po całkowitym wygojeniu)",
+      "occlusion_risk": "niskie (działa ściągająco)",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "W ciężkich pastach cynkowych (np. na odparzenia) działa silnie ściągająco i wysuszająco, co na świeżym tatuażu może prowadzić do twardych, pękających strupków. Z kolei po całkowitym wygojeniu tatuażu stanowi doskonały mineralny filtr UV.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Zinc Oxide",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "American Academy of Dermatology (AAD) – Broad-spectrum sunscreen with Zinc Oxide on healed tattoos",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/tattoos/caring-for-tattooed-skin"
+        }
+      ]
+    },
+    {
+      "id": "chlorhexidine-digluconate",
+      "inci": "Chlorhexidine Digluconate",
+      "name_pl": "Diglukonian chlorheksydyny (w preparatach myjących/ochronnych)",
+      "cas": "18472-51-0",
+      "cosing_functions": [
+        "ANTIMICROBIAL",
+        "ORAL CARE",
+        "PRESERVATIVE"
+      ],
+      "category": "Składnik antybakteryjny / konserwujący",
+      "fresh_tattoo_rating": "neutralny_bazowy",
+      "healed_tattoo_rating": "neutralny_bazowy",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "niski_do_umiarkowanego (rzadkie przypadki alergii kontaktowej)",
+      "explanation_pl": "W niskich stężeniach kosmetycznych (do 0,3% w przeliczeniu na chlorheksydynę zgodnie z Załącznikiem V rozporządzenia 1223/2009) wspomaga czystość mikrobiologiczną preparatów do przemywania i pielęgnacji świeżego tatuażu.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Chlorhexidine Digluconate (Annex V/42)",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "phenoxyethanol",
+      "inci": "Phenoxyethanol",
+      "name_pl": "Fenoksyetanol",
+      "cas": "122-99-6",
+      "cosing_functions": [
+        "PRESERVATIVE"
+      ],
+      "category": "Konserwant (ochrona przed skażeniem bakteryjnym kremu)",
+      "fresh_tattoo_rating": "neutralny_bazowy",
+      "healed_tattoo_rating": "neutralny_bazowy",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "bardzo niski (dopuszczony w UE do maks. 1,0%)",
+      "explanation_pl": "Każdy krem zawierający wodę musi być zabezpieczony przed rozwojem bakterii (np. Pseudomonas aeruginosa czy Staphylococcus aureus), ponieważ nakładanie zakażonego kremu na świeżą ranę grozi infekcją. Fenoksyetanol w stężeniu do 1% jest jednym z najlepiej tolerowanych konserwantów.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Phenoxyethanol (Annex V/29)",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "SCCS Opinion on Phenoxyethanol (SCCS/1575/16)",
+          "url": "https://health.ec.europa.eu/scientific-committees/scientific-committee-consumer-safety-sccs_en"
+        }
+      ]
+    },
+    {
+      "id": "sodium-cocoamphoacetate",
+      "inci": "Sodium Cocoamphoacetate",
+      "name_pl": "Kokoamfooctan sodu (łagodny surfaktant amfoteryczny)",
+      "cas": "68334-21-4",
+      "cosing_functions": [
+        "CLEANSING",
+        "FOAM BOOSTING",
+        "HAIR CONDITIONING",
+        "SURFACTANT"
+      ],
+      "category": "Łagodna substancja myjąca (do żeli i pianek do mycia tatuażu)",
+      "fresh_tattoo_rating": "zalecany_od_1_dnia",
+      "healed_tattoo_rating": "zalecany",
+      "occlusion_risk": "brak (składnik spłukiwany)",
+      "sensitization_potential": "bardzo niski",
+      "explanation_pl": "Bardzo delikatny środek powierzchniowo czynny stosowany w piankach i żelach do mycia świeżego tatuażu. Pozwala zmyć zaschnięte osocze i nadmiar tuszu bez naruszania lipidów naskórka.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Sodium Cocoamphoacetate",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "sodium-laureth-sulfate",
+      "inci": "Sodium Lauryl Sulfate / Sodium Laureth Sulfate",
+      "name_pl": "SLS / SLES (silne anionowe detergenty myjące)",
+      "cas": "151-21-3 / 9004-82-4",
+      "cosing_functions": [
+        "CLEANSING",
+        "EMULSIFYING",
+        "FOAMING",
+        "SURFACTANT"
+      ],
+      "category": "Silny detergent myjący",
+      "fresh_tattoo_rating": "ostroznie_na_swiezy_tatuaz",
+      "healed_tattoo_rating": "neutralny_bazowy",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "niski (ale potencjał drażniący na świeżą ranę wysoki przy długim kontakcie)",
+      "explanation_pl": "Skutecznie odtłuszczają skórę, ale zwłaszcza SLS (Sodium Lauryl Sulfate) może naruszać barierę hydrolipidową i szczypać na świeżo wytatuowanym naskórku. Do mycia świeżego tatuażu łagodniejsze są glukozydy (Coco-Glucoside, Decyl Glucoside) i betainy.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Sodium Lauryl Sulfate",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        }
+      ]
+    },
+    {
+      "id": "parfum",
+      "inci": "Parfum / Aroma",
+      "name_pl": "Kompozycja zapachowa (Parfum / Fragrance)",
+      "cas": "-",
+      "cosing_functions": [
+        "DEODORANT",
+        "MASKING",
+        "PERFUMING"
+      ],
+      "category": "Składnik zapachowy",
+      "fresh_tattoo_rating": "unikac_na_swieza_rane",
+      "healed_tattoo_rating": "ostroznie_na_swiezy_tatuaz",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "wysoki (jedna z najczęstszych przyczyn kontaktowego zapalenia skóry)",
+      "explanation_pl": "Kompozycje zapachowe wnikające przez świeżo nakłuty naskórek mogą powodować pieczenie, zaczerwienienie oraz alergiczne kontaktowe zapalenie skóry. W pierwszych dniach gojenia najbezpieczniejsze są preparaty bezzapachowe (fragrance-free).",
+      "sources": [
+        {
+          "name": "Cleveland Clinic – Tattoo Aftercare (use fragrance-free soap and moisturizer)",
+          "url": "https://my.clevelandclinic.org/health/treatments/11022-tattoo-aftercare"
+        },
+        {
+          "name": "DermNet NZ – Fragrance allergy",
+          "url": "https://dermnetnz.org/topics/fragrance-allergy"
+        }
+      ]
+    },
+    {
+      "id": "limonene-linalool",
+      "inci": "Limonene / Linalool / Citral / Geraniol",
+      "name_pl": "Deklarowane alergeny zapachowe (terpeny z olejków eterycznych i kompozycji zapachowych)",
+      "cas": "5989-27-5 / 78-70-6",
+      "cosing_functions": [
+        "DEODORANT",
+        "PERFUMING",
+        "SOLVENT"
+      ],
+      "category": "Alergeny zapachowe podlegające obowiązkowi deklaracji w INCI",
+      "fresh_tattoo_rating": "unikac_na_swieza_rane",
+      "healed_tattoo_rating": "ostroznie_na_swiezy_tatuaz",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "wysoki (szczególnie po utlenieniu na powietrzu i na uszkodzonym naskórku)",
+      "explanation_pl": "Substancje zapachowe występujące również w naturalnych olejkach cytrusowych, lawendowych czy ziołowych. Nawet w kosmetyku „100% naturalnym” ich obecność na końcu składu INCI sygnalizuje ryzyko podrażnienia świeżej rany.",
+      "sources": [
+        {
+          "name": "European Commission CosIng – Fragrance allergens (Regulation 1223/2009 Annex III)",
+          "url": "https://ec.europa.eu/growth/tools-databases/cosing/"
+        },
+        {
+          "name": "DermNet NZ – Essential oil and terpene contact allergy",
+          "url": "https://dermnetnz.org/topics/fragrance-allergy"
+        }
+      ]
+    },
+    {
+      "id": "alcohol-denat",
+      "inci": "Alcohol Denat. / Ethanol / Isopropyl Alcohol",
+      "name_pl": "Alkohol denaturowany / etylowy / izopropylowy",
+      "cas": "64-17-5 / 67-63-0",
+      "cosing_functions": [
+        "ANTIFOAMING",
+        "ANTIMICROBIAL",
+        "ASTRINGENT",
+        "MASKING",
+        "SOLVENT",
+        "VISCOSITY CONTROLLING"
+      ],
+      "category": "Rozpuszczalnik lotny (wysuszający)",
+      "fresh_tattoo_rating": "unikac_na_swieza_rane",
+      "healed_tattoo_rating": "unikac_na_swieza_rane",
+      "occlusion_risk": "brak",
+      "sensitization_potential": "niski (ale silne działanie cytotoksyczne i drażniące na żywe komórki naskórka)",
+      "explanation_pl": "Służy do odkażania nieuszkodzonej skóry przed zabiegiem, ale nie wolno stosować go do pielęgnacji świeżego tatuażu ani nakładać kosmetyków z wysoką zawartością Alcohol Denat. Powoduje silne pieczenie, denaturację białek i przesuszenie rany.",
+      "sources": [
+        {
+          "name": "Cleveland Clinic – Tattoo Aftercare (avoid rubbing alcohol or hydrogen peroxide on a healing tattoo)",
+          "url": "https://my.clevelandclinic.org/health/treatments/11022-tattoo-aftercare"
+        },
+        {
+          "name": "American Academy of Dermatology (AAD) – Caring for tattooed skin",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/tattoos/caring-for-tattooed-skin"
+        }
+      ]
+    }
+  ],
+  "approved_products": [
+    {
+      "id": "bepanthen-tattoo",
+      "name": "Bepanthen Tattoo – Intensywny krem pielęgnujący po tatuażu",
+      "formula_type": "Gęsta maść/krem W/O z wysoką zawartością lipidów (Lanolin, Panthenol 5%)",
+      "fragrance_free": true,
+      "stage": "Wyłącznie bardzo cienka mikro-warstwa przy przesuszonym naskórku (zbyt gruba warstwa daje wysoką okluzję)",
+      "inci_raw": "Aqua, Lanolin, Paraffinum Liquidum, Petrolatum, Panthenol, Prunus Amygdalus Dulcis Oil, Cera Alba, Cetyl Alcohol, Stearyl Alcohol, Ozokerite, Glyceryl Oleate, Lanolin Alcohol",
+      "key_ingredients": [
+        "aqua",
+        "lanolin",
+        "paraffinum-liquidum",
+        "petrolatum",
+        "panthenol",
+        "prunus-amygdalus-dulcis-oil",
+        "cera-alba",
+        "cetearyl-alcohol"
+      ],
+      "summary_pl": "Formuła bez konserwantów i substancji zapachowych, oparta na 5% dekspantenolu i lanolinie. Ze względu na obecność lanoliny, parafiny ciekłej i wazeliny tworzy silną barierę okluzyjną – na świeży tatuaż należy nakładać wyłącznie minimalną, niemal niewidoczną warstwę, aby uniknąć maceracji naskórka i potówek."
+    },
+    {
+      "id": "easytattoo-cream",
+      "name": "Easytattoo – Krem do pielęgnacji tatuażu",
+      "formula_type": "Lekka emulsja O/W (Aqua na 1. miejscu, Panthenol, masło shea)",
+      "fragrance_free": true,
+      "stage": "Od 1. dnia gojenia (cienka warstwa) oraz po wygojeniu",
+      "inci_raw": "Aqua (Water), Paraffinum Liquidum (Mineral Oil), Butyrospermum Parkii (Shea) Butter, Oxidized Corn Oil, Cera Alba (Beeswax), Glycerin, Cetearyl Alcohol, Panthenol, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cetyl Palmitate, Glyceryl Stearate, PEG-100 Stearate, Polyacrylamide, C13-14 Isoparaffin, Chlorhexidine Digluconate, Laureth-7, Calendula Officinalis Flower Extract, Citric Acid, Tocopheryl Acetate",
+      "key_ingredients": [
+        "aqua",
+        "paraffinum-liquidum",
+        "butyrospermum-parkii-butter",
+        "cera-alba",
+        "glycerin",
+        "cetearyl-alcohol",
+        "panthenol",
+        "prunus-amygdalus-dulcis-oil",
+        "chlorhexidine-digluconate",
+        "tocopheryl-acetate"
+      ],
+      "summary_pl": "Bezzapachowa emulsja O/W (olej w wodzie) z wysoką zawartością wody na pierwszym miejscu w INCI, pantenolem, gliceryną, masłem shea i olejem ze słodkich migdałów. Łatwo się rozprowadza na obolałej skórze i nie tworzy ciężkiej skorupy."
+    },
+    {
+      "id": "neba-cream",
+      "name": "Neba – Krem do pielęgnacji tatuażu",
+      "formula_type": "Lekka emulsja O/W z ceramidami, pantenolem i olejami roślinnymi",
+      "fragrance_free": false,
+      "stage": "Od 1. dnia gojenia (cienka warstwa; uwaga u osób z alergią na Parfum)",
+      "inci_raw": "Aqua, Butyrospermum Parkii Butter, Polyglyceryl-6 Stearate, Glycerin, Canola Oil, Isostearyl Isostearate, Cetearyl Alcohol, Cannabis Sativa Seed Oil, Panthenol, Glyceryl Stearates, Borago Officinalis Seed Oil, 1,2-Hexanediol, Aloe Barbadensis Leaf Juice, Inulin, Alpha-Glucan Oligosaccharide, Sodium Polyacrylate, Polyglyceryl-6 Behenate, Tocopheryl Acetate, Xanthan Gum, Allantoin, Ceramide NP, Plukenetia Volubilis Seed Oil, Olea Europaea Fruit Oil, Polyglyceryl-10 Laurate, Citric Acid, Tocopherol, Lecithin, Ascorbyl Palmitate, Glyceryl Stearate, Glyceryl Oleate, Potassium Sorbate, Sodium Benzoate, Phenoxyethanol, Parfum",
+      "key_ingredients": [
+        "aqua",
+        "butyrospermum-parkii-butter",
+        "glycerin",
+        "cetearyl-alcohol",
+        "panthenol",
+        "aloe-barbadensis-leaf-juice",
+        "tocopheryl-acetate",
+        "allantoin",
+        "ceramide-np",
+        "phenoxyethanol",
+        "parfum"
+      ],
+      "summary_pl": "Wegańska emulsja wodno-lipidowa zawierająca pantenol, ceramidy (Ceramide NP), alantoinę, sok z aloesu oraz olej konopny i z ogórecznika. Lekka konsystencja szybko się wchłania; na końcu składu INCI zawiera kompozycję zapachową (Parfum)."
+    },
+    {
+      "id": "loveink-tattoo-butter-aloe",
+      "name": "Loveink – Tattoo Butter Aloe (masło do tatuażu)",
+      "formula_type": "Masło bezwodne (100% lipidowe, bez Aqua)",
+      "fragrance_free": false,
+      "stage": "Faza łuszczenia (od ok. 4–5 dnia w minimalnej ilości) i codzienna pielęgnacja wygojonego tatuażu",
+      "inci_raw": "Butyrospermum Parkii Butter, Macadamia Ternifolia Seed Oil, Prunus Amygdalus Dulcis Oil, Prunus Armeniaca Kernel Oil, Hydrogenated Vegetable Oil, Aloe Barbadensis Leaf Juice, Cocos Nucifera Oil, Tocopheryl Acetate, Parfum",
+      "key_ingredients": [
+        "butyrospermum-parkii-butter",
+        "macadamia-ternifolia-seed-oil",
+        "prunus-amygdalus-dulcis-oil",
+        "cocos-nucifera-oil",
+        "aloe-barbadensis-leaf-juice",
+        "tocopheryl-acetate",
+        "parfum"
+      ],
+      "summary_pl": "Bezwodne masło oparte na maśle shea, oleju makadamia, migdałowym, z pestek moreli i kokosowym z wyciągiem z aloesu. Ze względu na brak fazy wodnej wykazuje wyższą okluzję niż lekkie kremy O/W – na gojący się tatuaż nakładać wyłącznie po rozgrzaniu w dłoniach, bardzo cienką warstwą."
+    },
+    {
+      "id": "la-roche-posay-cicaplast-baume-b5-plus",
+      "name": "La Roche-Posay – Cicaplast Baume B5+",
+      "formula_type": "Dermokosmetyczny balsam regenerujący O/W (Panthenol 5%, Madecassoside)",
+      "fragrance_free": true,
+      "stage": "Od 1. dnia gojenia (bardzo cienka warstwa) oraz przy podrażnionym naskórku",
+      "inci_raw": "Aqua / Water / Eau, Hydrogenated Polyisobutene, Dimethicone, Glycerin, Butyrospermum Parkii Butter / Shea Butter, Panthenol, Propanediol, Butylene Glycol, Aluminum Starch Octenylsuccinate, Cetyl PEG/PPG-10/1 Dimethicone, Trihydroxystearin, Zinc Gluconate, Madecassoside, Tribioma, Manganese Gluconate, Silica, Aluminum Hydroxide, Magnesium Sulfate, Disodium EDTA, Copper Gluconate, Capryloyl Glycine, Citric Acid, Acetylated Glycol Stearate, Polyglyceryl-4 Isostearate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891 / Titanium Dioxide",
+      "key_ingredients": [
+        "aqua",
+        "glycerin",
+        "butyrospermum-parkii-butter",
+        "panthenol",
+        "madecassoside",
+        "tocopheryl-acetate"
+      ],
+      "summary_pl": "Apteczny balsam barierowy typu Cica bez kompozycji zapachowej. Łączy 5% pantenolu, madekasozyd (frakcję wąkroty azjatyckiej), glicerynę i masło shea. Nakładać cienką warstwą, aby uniknąć białego filmu na skórze."
+    },
+    {
+      "id": "avene-cicalfate-plus",
+      "name": "Eau Thermale Avène – Cicalfate+ Regenerujący krem ochronny",
+      "formula_type": "Dermokosmetyczna emulsja ochronna W/O z kompleksem miedzi i cynku",
+      "fragrance_free": true,
+      "stage": "Faza regeneracji naskórka (cienka warstwa, bez kompozycji zapachowej)",
+      "inci_raw": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Mineral Oil (Paraffinum Liquidum), Glycerin, Hydrogenated Vegetable Oil, Zinc Oxide, Propylene Glycol, Polyglyceryl-2 Sesquiisostearate, PEG-22/Dodecyl Glycol Copolymer, Aluminum Stearate, Aquaphilus Dolomiae Ferment Filtrate, Arginine, Beeswax (Cera Alba), Copper Sulfate, Magnesium Stearate, Magnesium Sulfate, Microcrystalline Wax (Cera Microcristallina), Tromethamine, Zinc Sulfate",
+      "key_ingredients": [
+        "aqua",
+        "caprylic-capric-triglyceride",
+        "paraffinum-liquidum",
+        "glycerin",
+        "zinc-oxide",
+        "cera-alba"
+      ],
+      "summary_pl": "Bezzapachowy dermokosmetyk apteczny oparty na wodzie termalnej Avène, trójglicerydach kaprylowo-kaprynowych, glicerynie, postbiotycznym filtracie C+-Restore oraz siarczanach miedzi i cynku. Ze względu na obecność tlenku cynku i wosku pszczelego należy rozprowadzać bardzo cienką warstwą, aby nie przesuszyć strupków."
+    }
+  ]
+}
