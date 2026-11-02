@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-  <url><loc>https://shady-tattoo.pl/</loc><lastmod>2026-11-01</lastmod><priority>1.0</priority>
+  <url><loc>https://shady-tattoo.pl/</loc><lastmod>2026-11-02</lastmod><priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shady-tattoo.pl/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shady-tattoo.pl/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shady-tattoo.pl/"/>
@@ -46,7 +46,7 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://shady-tattoo.pl/en/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shady-tattoo.pl/o-nas/"/>
   <video:video><video:thumbnail_loc>https://shady-tattoo.pl/media/shady-tattoo-film-poster-720.jpg</video:thumbnail_loc><video:title>SHADY TATTOO Wieluń – darmowa wycena tatuażu online</video:title><video:description>Masz projekt, chcesz znać cenę? Napisz – podamy ją za darmo, bez zapisywania się. Film studia SHADY TATTOO z Wielunia.</video:description><video:content_loc>https://shady-tattoo.pl/media/shady-tattoo-film.mp4</video:content_loc><video:duration>10</video:duration><video:publication_date>2026-10-22T10:00:00+02:00</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
-  <url><loc>https://shady-tattoo.pl/ceny-tatuazy/</loc><lastmod>2026-10-29</lastmod><priority>0.7</priority>
+  <url><loc>https://shady-tattoo.pl/ceny-tatuazy/</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shady-tattoo.pl/ceny-tatuazy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shady-tattoo.pl/en/prices/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shady-tattoo.pl/ceny-tatuazy/"/>
@@ -405,7 +405,5 @@
   <url><loc>https://shady-tattoo.pl/blog/tatuaz-a-oddawanie-krwi/</loc><lastmod>2026-10-29</lastmod></url>
   <url><loc>https://shady-tattoo.pl/blog/tatuaz-a-rezonans-magnetyczny/</loc><lastmod>2026-10-29</lastmod></url>
   <url><loc>https://shady-tattoo.pl/carelab/</loc><lastmod>2026-10-29</lastmod></url>
-  <url><loc>https://shady-tattoo.pl/uslugi/</loc><lastmod>2026-10-29</lastmod></url>
-  <url><loc>https://shady-tattoo.pl/cennik/</loc><lastmod>2026-10-29</lastmod></url>
-  <url><loc>https://shady-tattoo.pl/piercing-wielun/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://shady-tattoo.pl/uslugi/</loc><lastmod>2026-11-02</lastmod></url>
 </urlset>
