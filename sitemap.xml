@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-  <url><loc>https://shady-tattoo.pl/</loc><lastmod>2026-11-02</lastmod><priority>1.0</priority>
+  <url><loc>https://shady-tattoo.pl/</loc><lastmod>2026-11-03</lastmod><priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shady-tattoo.pl/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shady-tattoo.pl/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shady-tattoo.pl/"/>
@@ -61,7 +61,7 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://shady-tattoo.pl/en/contact/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shady-tattoo.pl/kontakt/"/>
   </url>
-  <url><loc>https://shady-tattoo.pl/piercing/</loc><lastmod>2026-10-29</lastmod><priority>0.7</priority>
+  <url><loc>https://shady-tattoo.pl/piercing/</loc><lastmod>2026-11-03</lastmod><priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://shady-tattoo.pl/piercing/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shady-tattoo.pl/en/piercing/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://shady-tattoo.pl/piercing/"/>
@@ -405,5 +405,5 @@
   <url><loc>https://shady-tattoo.pl/blog/tatuaz-a-oddawanie-krwi/</loc><lastmod>2026-10-29</lastmod></url>
   <url><loc>https://shady-tattoo.pl/blog/tatuaz-a-rezonans-magnetyczny/</loc><lastmod>2026-10-29</lastmod></url>
   <url><loc>https://shady-tattoo.pl/carelab/</loc><lastmod>2026-10-29</lastmod></url>
-  <url><loc>https://shady-tattoo.pl/uslugi/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://shady-tattoo.pl/uslugi/</loc><lastmod>2026-11-03</lastmod></url>
 </urlset>
