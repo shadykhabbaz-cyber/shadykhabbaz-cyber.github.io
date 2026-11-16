@@ -17,7 +17,8 @@ if(F&&G){F.classList.remove('nojs');const st={style:'',artist:''},items=[...G.ch
  const apply=()=>{let k=0;items.forEach(li=>{const ok=(!st.style||li.dataset.style===st.style)&&(!st.artist||li.dataset.artist===st.artist);li.hidden=!ok;if(ok)k++;});
   if(cnt)cnt.textContent=k+' '+(EN?(k===1?'work':'works'):(k===1?'praca':(k%10>=2&&k%10<=4&&(k%100<12||k%100>14))?'prace':'prac'));F.querySelectorAll('.chip').forEach(c=>c.setAttribute('aria-pressed',String(st[c.dataset.k]===c.dataset.v)));};
  F.addEventListener('click',e=>{const c=e.target.closest('.chip');if(!c)return;st[c.dataset.k]=c.dataset.v;(!RM&&document.startViewTransition)?document.startViewTransition(apply):apply();});
- const q=location.hash.match(/artist=(\w+)/);if(q){const v=q[1][0].toUpperCase()+q[1].slice(1);if(F.querySelector(`.chip[data-k="artist"][data-v="${v}"]`)){st.artist=v;apply();}}}
+ const q=location.hash.match(/artist=(\w+)/);if(q){const v=q[1][0].toUpperCase()+q[1].slice(1);if(F.querySelector(`.chip[data-k="artist"][data-v="${v}"]`)){st.artist=v;apply();}}
+ const style=location.hash.slice(1);if(style&&[...F.querySelectorAll('.chip[data-k="style"]')].some(c=>c.dataset.v===style)){st.style=style;apply();}}
 // lightbox: role=dialog, pułapka fokusu, Esc, strzałki, swipe, powrót fokusu
 const links=[...document.querySelectorAll('a.lb')];if(!links.length)return;
 const d=document.createElement('div');d.className='lbx';d.hidden=true;d.setAttribute('role','dialog');d.setAttribute('aria-modal','true');d.setAttribute('aria-label',EN?'Photo preview':'Podgląd zdjęcia');
